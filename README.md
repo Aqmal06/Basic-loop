@@ -11,4 +11,5 @@
   - condition2 are depend on condition1. So, if our i value is 1, isn't it make senses for 1<=5 ?. Because 1 is less, and a small number compare to 5.
   - The code meet what the condition2 want. Then it will move to condition3.
 - condition3: the number will be either increment/decrement to start over the iteration back.
-  
+  - To reach maximum value, we will increment the i by one. i+=1. Why ? because our maximum value is 5. To reach our integer starting point to maximum value.
+  - eg; once i=1 complete it task. The value i will going through condition3, which the value i itself will be add by 1. So, the next iteration will be start with value i=2 as our starting point. So is the next number.
